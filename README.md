@@ -1,9 +1,9 @@
-Real Estate Property Management and Price Prediction System
+**Real Estate Property Management and Price Prediction System**
 Authors:
 Raunaksingh Khalsa, Vedashree Bane, Akshaj Nevgi
 Email: khalsa.ra@northeastern.edu, bane.v@northeastern.edu, nevgi.a@northeastern.edu
 
-Overview
+**Overview**
 This project delivers an integrated platform for real estate property management and property price prediction. It simplifies the challenges of efficient property searching, broker management, and market analysis using advanced data science techniques.
 
 Key Features:
