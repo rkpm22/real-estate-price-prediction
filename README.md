@@ -1,4 +1,5 @@
 **Real Estate Property Management and Price Prediction System**
+
 Authors:
 Raunaksingh Khalsa, Vedashree Bane, Akshaj Nevgi
 Email: khalsa.ra@northeastern.edu, bane.v@northeastern.edu, nevgi.a@northeastern.edu
